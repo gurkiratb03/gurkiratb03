@@ -21,7 +21,8 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://camo.githubusercontent.com/7d6276f0818df57df2c65c51baa23afc0bd32a276d122e5e5bf441b2ae313abf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465)
+  [![Bash](https://camo.githubusercontent.com/7d6276f0818df57df2c65c51baa23afc0bd32a276d122e5e5bf441b2ae313abf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465)]
+  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
