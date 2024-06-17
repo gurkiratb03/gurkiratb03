@@ -6,7 +6,7 @@
 
 - 🚀 &nbsp; Passionate about exploring new technologies and crafting innovative software solutions.
 - 🎓 &nbsp; Pursuing a Bachelor's of Engineering in Software Engineering at York University.
-- 🔭 &nbsp; Actively seeking Summer 2024 SWE internships to apply my skills in real-world scenarios.
+- 🔭 &nbsp; Currently Interning @ MTO for S24 and theScore for F24.
 - 🧠 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✒️ &nbsp; Pursuing Graphic Design and Website Development as hobbies/side hustles.
 
